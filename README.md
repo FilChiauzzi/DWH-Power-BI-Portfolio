@@ -3,6 +3,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-red)
 ![Finance](https://img.shields.io/badge/Finance-KPIs-green)
 ![Sales](https://img.shields.io/badge/Sales-Analytics-orange)
+# Power-BI-Portfolio with creation of DWH in SQL (Kimball Style) is in progress and it will be avalaible in the end ao September!!!!
 # Power-BI-Portfolio
 Hi everyone! Welcome to my **Power BI portfolio**. Here I’ll be sharing **business analytics projects** built with **Power BI, Dax Studio, Microsoft SQL Server and Python (Pandas)** that cover **data modeling**, **data cleaning**, **DAX measures**, **visuals**, and **performance analysis** — with a special focus on **sales** analytics, **finance** dashboards, and business insights.
 # 📊 Power BI Portfolio – Filippo Chiauzzi
