@@ -17,7 +17,7 @@ Raw data → Cleaning (SQL / Power Query) → Modelling (DAX) → Visualization 
 
 ## 📂 Projects
 ### 1. AdventureWorks – Executive Sales Dashboard
-![DWH Architecture High Level](DWHArchitectureHighLevel.jpg)
+![DWHArchitectureHighLevel](Images/DWHArchitectureHighLevel.jpg)
 
 - **Dataset:** AdventureWorksDW2022  
 - **Focus:** Sales performance, profitability, customer insights  
