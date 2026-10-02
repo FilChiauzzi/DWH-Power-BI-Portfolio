@@ -15,6 +15,7 @@ The goal of this project is to demostrate a comprehenisive data warehousing and 
 ## 📐✏️👷‍♀️ Architecture Proposal
 ![Data Architectures Approach](Images/Data_Architectures_Approach.png)
 
+# ✍🏻💡 Logical Steps to follow
 ![DWH_Medallion_Steps.png](Images/DWH_Medallion_Steps.png)
 
 ---
