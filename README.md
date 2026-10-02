@@ -18,6 +18,7 @@ The goal of this project is to demostrate a comprehenisive data warehousing and 
 # ✍🏻💡 Logical Steps to follow it
 ![DWH_Medallion_Steps.png](Images/DWH_Medallion_Steps.png)
 
+The dwh it is orchestrate by Server Integration Services **SSIS** and refresh scheduled by SQL Agent
 ---
 # Building the Data Warehouse (Data Engineering)
 ![DWH_Architetcture_High_Level](Images/DWH_Architetcture_High_Level.jpg)
