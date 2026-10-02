@@ -17,8 +17,10 @@ The goal of this project is to demostrate a comprehenisive data warehousing and 
 ![DWH_Architetcture_High_Level](Images/DWH_Architetcture_High_Level.jpg)
 # 🚀 Specifications
   * **Data Sources:** Import data from SQL Server OLTP Database AdventureWorks2025.
-  * **Data Quality:** Cleane and resolve data quuality issues prior to analysis.
-  * **Integration:** Data enrichment and denormalizaiton to provide an efficiently Star Schema model
+  * **Data Quality:** Clean and resolve data quality issues prior to analysis.
+  * **Integration:** Data enrichment (config tables to data-driven, derived columns) and denormalizaiton to provide an efficiently Star Schema model.
+  * **Scope:** Data warehouse with Type 1 and Type 2 SCD management and data anomaly detection.
+  * **Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics team.
 ---
 ## 🔥 Workflow
 ![DWH_Architetcture_DataFlow.drawio](Images/DWH_Architetcture_DataFlow.drawio.png)
