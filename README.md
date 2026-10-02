@@ -16,13 +16,12 @@ The goal of this project is to demostrate a comprehenisive data warehousing and 
 
 ---
 ## 🔥 Workflow
-Raw data → Cleaning (SQL / Power Query) → Modelling (DAX) → Visualization (Power BI)
+![DWH_Architetcture_High_Level](Images/DWH_Architetcture_High_Level.jpg)
 
 ---
 
 ## 📂 Projects
 ### 1. AdventureWorks – Executive Sales Dashboard
-![DWH_Architetcture_High_Level](Images/DWH_Architetcture_High_Level.jpg)
 - **Dataset OLTP:** AdventureWorks2025
 - **Focus:** Sales performance, profitability, customer insights  
 - **Tech:** Power BI, SQL Server, DAX  
