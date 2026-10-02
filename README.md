@@ -12,7 +12,7 @@ The goal of this project is to demostrate a comprehenisive data warehousing and 
 ---
 
 ## Architecture Proposal
-![Data-Architectures-Approach](Images/Data-Architectures-Approach.png)
+![Data Architectures Approach](Images/Data_Architectures_Approach.png)
 
 ---
 ## 🔥 Workflow
