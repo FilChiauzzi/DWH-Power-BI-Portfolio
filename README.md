@@ -1,9 +1,9 @@
 # Data Warehouse and Power BI Project with creation of DWH in SQL (Medallion Architecture) is in progress and it will be avalaible in the end of September 2026, stai tuned!!!!
 
 # 📊 Data Warehouse and Power BI Project
+![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-red)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analytics-yellow)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue)
-![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-red)
 ![Finance](https://img.shields.io/badge/Finance-KPIs-green)
 ![Sales](https://img.shields.io/badge/Sales-Analytics-orange)
 
