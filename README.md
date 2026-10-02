@@ -17,6 +17,8 @@ The goal of this project is to demostrate a comprehenisive data warehousing and 
 ## 🔥 Workflow
 ![DWH_Architetcture_High_Level](Images/DWH_Architetcture_High_Level.jpg)
 
+![DWH_Architetcture_DataFlow.drawio](Images/DWH_Architetcture_DataFlow.drawio.png)
+
 ---
 
 ## 📂 Projects
