@@ -23,6 +23,9 @@ The goal of this project is to demostrate a comprehenisive data warehousing and 
   * **Integration:** Data enrichment (config tables to data-driven, derived columns) and denormalizaiton to provide an efficiently Star Schema model.
   * **Scope:** Data warehouse with Type 1 and Type 2 SCD management and data anomaly detection.
   * **Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics team.
+
+![DWH_Medallion_Steps.png](Images/DWH_Medallion_Steps.jpg)
+
 ---
 ## 🔥 Workflow
 ![DWH_Architetcture_DataFlow.drawio](Images/DWH_Architetcture_DataFlow.drawio.png)
