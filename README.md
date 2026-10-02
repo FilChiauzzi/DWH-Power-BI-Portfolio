@@ -11,9 +11,14 @@ The goal of this project is to demostrate a comprehenisive data warehousing and 
 ---
 
 ## 📐✏️👷‍♀️ Architecture Proposal
+# Building the Data Warehouse (Data Engineering)
 ![Data Architectures Approach](Images/Data_Architectures_Approach.png)
 
 ![DWH_Architetcture_High_Level](Images/DWH_Architetcture_High_Level.jpg)
+# 🚀 Specifications
+  * **Data Sources:** Import data from SQL Server OLTP Database AdventureWorks2025.
+  * **Data Quality:** Cleane and resolve data quuality issues prior to analysis.
+  * **Integration:** Data enrichment and denormalizaiton to provide an efficiently Star Schema model
 ---
 ## 🔥 Workflow
 ![DWH_Architetcture_DataFlow.drawio](Images/DWH_Architetcture_DataFlow.drawio.png)
