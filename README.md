@@ -6,6 +6,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-red)
 ![Finance](https://img.shields.io/badge/Finance-KPIs-green)
 ![Sales](https://img.shields.io/badge/Sales-Analytics-orange)
+
 Hi everyone! Welcome to the **Data Warehouse and Power BI Project** repository. 
 The goal of this project is to demostrate a comprehenisive data warehousing and business analitical solution, form building a data warehouse with **Microsoft SQL Server**, orchestrate by SQL Server Integration Services **SSIS** to generating insights with **Power BI**.
 
